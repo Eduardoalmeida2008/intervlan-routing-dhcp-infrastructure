@@ -11,7 +11,7 @@ This project demonstrates the implementation of a segmented enterprise network u
 
 ## 🗺️ Network Topology
 The network consists of:
-- **1 Cisco Router (2911):** Acting as the Default Gateway and DHCP Server.
+- **2 Cisco Routers (2911):** Acting as the Default Gateways and DHCP Server.
 - **3 Cisco Switches (2960):** Handling access layer connectivity and VLAN tagging.
 - **End Devices:** Multiple PCs simulating different departments (Sales, HR, IT, etc.).
 
